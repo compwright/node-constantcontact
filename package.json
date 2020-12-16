@@ -1,6 +1,6 @@
 {
   "name": "node-constantcontact",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Constant Contact v2 API client for Node.js",
   "keywords": [
     "constantcontact",
