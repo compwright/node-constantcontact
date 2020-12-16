@@ -1,5 +1,9 @@
 # node-constantcontact
 
+[![Dependency Status](https://img.shields.io/david/compwright/node-constantcontact.svg?style=flat-square)](https://david-dm.org/compwright/node-constantcontact)
+[![Download Status](https://img.shields.io/npm/dm/node-constantcontact.svg?style=flat-square)](https://www.npmjs.com/package/node-constantcontact)
+[![Sponsor on GitHub](https://img.shields.io/static/v1?label=Sponsor&message=❤&logo=GitHub&link=https://github.com/sponsors/compwright)](https://github.com/sponsors/compwright)
+
 Constant Contact v2 API client for Node.js
 
 ## Install
